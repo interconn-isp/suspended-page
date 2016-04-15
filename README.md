@@ -2,7 +2,7 @@
 
 This page is displayed to users whose service has been suspended.
 
-[[img/screenshot.png|alt=Screenshot]]
+[![Screenshot][https://github.com/interconn-isp/suspended-page/blob/master/img/screenshot.png]]
 
 ## Why is this even under version control?
 
